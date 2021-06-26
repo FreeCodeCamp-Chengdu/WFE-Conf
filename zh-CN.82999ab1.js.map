@@ -1,0 +1,1 @@
+{"version":3,"sources":["i18n/zh-CN.ts"],"names":[],"mappings":";AAAA,aAAA,IAAY,EAAZ,OAAA,eAAA,QAAA,aAAA,CAAA,OAAA,IAAA,QAAA,WAAA,EAAA,QAAA,MAAA,EAAA,SAAY,GACR,EAAA,OAAA,KACA,EAAA,SAAA,KAFJ,CAAY,IAAA,QAAA,MAAA,EAAK","file":"zh-CN.82999ab1.js","sourceRoot":"../source","sourcesContent":["export enum zh_CN {\n    review = '回顾',\n    register = '注册'\n}\n"]}
